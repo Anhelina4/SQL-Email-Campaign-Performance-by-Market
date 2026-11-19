@@ -1,4 +1,4 @@
-# ecommerce-analytics
+# SQL: Email Campaign Performance by Market
 
 ## Overview
 Analysis of account creation and email campaign performance. The query consolidates account-level and email-level metrics, ranks markets by performance, and filters results to top-10 countries by user acquisition or email volume.
